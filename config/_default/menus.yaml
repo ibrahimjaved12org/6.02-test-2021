@@ -1,0 +1,5 @@
+mainmenu:
+- identifier: fe0b893f-67e2-4034-a0ea-55a750eaf608
+  name: Menu
+  url: /notifications/test-notification
+  weight: 10
